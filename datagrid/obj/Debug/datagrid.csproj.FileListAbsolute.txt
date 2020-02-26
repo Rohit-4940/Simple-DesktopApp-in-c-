@@ -1,0 +1,10 @@
+E:\ismt\datagrid\datagrid\bin\Debug\datagrid.exe.config
+E:\ismt\datagrid\datagrid\bin\Debug\datagrid.exe
+E:\ismt\datagrid\datagrid\bin\Debug\datagrid.pdb
+E:\ismt\datagrid\datagrid\obj\Debug\datagrid.csprojAssemblyReference.cache
+E:\ismt\datagrid\datagrid\obj\Debug\datagrid.Form1.resources
+E:\ismt\datagrid\datagrid\obj\Debug\datagrid.Properties.Resources.resources
+E:\ismt\datagrid\datagrid\obj\Debug\datagrid.csproj.GenerateResource.cache
+E:\ismt\datagrid\datagrid\obj\Debug\datagrid.csproj.CoreCompileInputs.cache
+E:\ismt\datagrid\datagrid\obj\Debug\datagrid.exe
+E:\ismt\datagrid\datagrid\obj\Debug\datagrid.pdb
